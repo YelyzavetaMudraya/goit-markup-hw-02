@@ -74,6 +74,7 @@ body {
 }
 .address-studio {
   list-style-type: none;
+  font-style: normal;
 }
 .link-map {
   color: #ffff;
